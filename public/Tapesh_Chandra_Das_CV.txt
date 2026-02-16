@@ -1,0 +1,27 @@
+Tapesh Chandra Das
+Email: tapeshdas2002@gmail.com
+GitHub: https://github.com/td-02
+Google Scholar: https://scholar.google.com/citations?user=bz5uLYcAAAAJ&hl=en
+
+Positioning
+Hybrid Research + Industry Engineer focused on AI, Systems, Execution Infrastructure,
+and Applied Machine Learning. Future researcher in scalable intelligent systems.
+
+Education
+B.Tech in Computer Science
+
+Experience
+- Associate Software Engineer, Accenture
+- Research Collaborator, Indian Statistical Institute
+
+Publication
+Das, T. C. (2025). Semantic Understanding of Legal Texts: A BERT-Focused Classification
+Framework. International Conference on Information Technology and Artificial Intelligence
+(ITAI 2025). Lecture Notes in Networks and Systems, Springer (SCOPUS indexed).
+
+Core Focus Areas
+- Event-driven systems
+- NLP and transformer-based modeling
+- Financial machine learning and market microstructure
+- Execution engines and simulation frameworks
+- Security-oriented systems analysis
