@@ -48,9 +48,6 @@ npm run build:root
 ### 3) Deploy
 Every push to `main` triggers deployment automatically.
 
-> Note: The GitHub Actions workflow uses `npm install --no-package-lock` to avoid lockfile-related CI failures when no committed lockfile is present.
-
-
 ---
 
 ## Manual Deployment (Alternative)
